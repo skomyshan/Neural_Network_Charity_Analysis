@@ -7,4 +7,4 @@ The purpose of this project was to use deep-learning neural network in conjuncti
 - optimize the model's performancee.
 
 ## Resources
-- Data Source: [charity_data.csv] (https://github.com/skomyshan/Neural_Network_Charity_Analysis/blob/main/resources/charity_data.csv)
+- Data Source: [charity_data.csv](https://github.com/skomyshan/Neural_Network_Charity_Analysis/blob/main/resources/charity_data.csv)
