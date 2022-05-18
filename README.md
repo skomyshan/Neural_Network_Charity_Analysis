@@ -18,3 +18,7 @@ The purpose of this project was to use deep-learning neural network in conjuncti
 - We designate the following columns as the features for our model, `APPLICATION_TYPE`, `AFFILIATION`, `CLASSIFICATION`, `USE_CASE`, `ORGANIZATION `, `STATUS`, `INCOME_AMT`, `SPECIAL_CONSIDERATIONS`, and `ASK_AMT`. The categorical variables are encodes, split into training and testing datasets and the features have been standardized.
 
 ### Compiling, Training, and Evaluating the Model
+- This deep-learning neural network model is composed of two hidden layers awith 80 and 30 neurons.
+
+### Summary
+The deep-learning neural network model did not achieve the target of 75% accuracy, therefore, we can say that the model is not outperforming. We can opt to use a supervised machine learning model such as the RandomForestClassifier where we can combine multiple decision trees in order to generate a classified output.
