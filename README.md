@@ -19,6 +19,8 @@ The purpose of this project was to use deep-learning neural network in conjuncti
 
 ### Compiling, Training, and Evaluating the Model
 - This deep-learning neural network model is composed of two hidden layers awith 80 and 30 neurons.
+- To speed up the training process, we used the activation function `ReLU` for the hidden layers. We also used `tanh`.
+- Model accuracy is under 75%.
 
 ### Summary
 The deep-learning neural network model did not achieve the target of 75% accuracy, therefore, we can say that the model is not outperforming. We can opt to use a supervised machine learning model such as the RandomForestClassifier where we can combine multiple decision trees in order to generate a classified output.
